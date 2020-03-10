@@ -2,7 +2,7 @@
 
 I wrote this simple script to edit files at runtime. replace_line.py contains a simple function Fix which will look for an exact match and replace this line with something different.
 
-I tested this for python 2.7, possibly it works for other versions too (not tested!).
+I wrote and tested this for python 2.7 under Linux, possibly it works for other versions too (not tested!). Some fixes could be needed to make it work under Windows.
 
 ## Demo
 The main() in replace_line gives a demonstration of how this works:
